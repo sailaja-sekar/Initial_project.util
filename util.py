@@ -1,6 +1,6 @@
 name="Sailaja"
 age=25
-product_price=1500
+product_price=1000
 discount_price=product_price*0.1
 if discount_price>100:
     final_price=product_price-discount_price
